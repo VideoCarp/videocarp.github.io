@@ -1,5 +1,5 @@
 <head>
-  <meta http-equiv='refresh' content='0; URL=http://example.com/'>
+  <meta http-equiv='refresh' content='0; URL=https://videocarp.github.io/book'>
 </head>
 
 # videocarp.github.io
